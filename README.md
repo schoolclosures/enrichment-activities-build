@@ -19,9 +19,7 @@ Build folder of Enrichment Activities app for deployment and then embed
      
 **3. Copy to index file**
 ```
-<div id="divRoot">
-  
-</div>
+<div id="divRoot"></div>
 <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
 <link rel="stylesheet" type="text/css" href="./static/css/main.css">
