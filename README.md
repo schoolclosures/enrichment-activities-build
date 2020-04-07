@@ -2,11 +2,21 @@
 Build folder of Enrichment Activities app for deployment and then embed
 
 **1. enter [yarn build] in enrichment-activities repo**
+
+
+
 **2. Make the following changes to file names:**
-     - /static/css/main.#######.chunk.css ---> /static/css/main.css
-     - /static/js/2.######.chunk.js ---> /static/js/chunk1.js
-     - /static/js/main.######.chunk.js ---> /static/js/chunk2.js
-     - /static/js/runtime-main.######.js ---> /static/js/runtime-main.js
+
+    - /static/css/main.#######.chunk.css    →    /static/css/main.css
+
+    - /static/js/2.######.chunk.js          →    /static/js/chunk1.js
+
+    - /static/js/main.######.chunk.js       →    /static/js/chunk2.js
+
+    - /static/js/runtime-main.######.js     →    /static/js/runtime-main.js
+
+     
+     
 **3. Copy to index file**
 ```
 <div id="divRoot">
@@ -20,7 +30,10 @@ Build folder of Enrichment Activities app for deployment and then embed
 <script src="./static/js/runtime-main.js"></script>
 ```
      
+     
+     
 **4. Pushing to master branch deploys website [https://schoolclosures.github.io/enrichment-activities-build/](https://schoolclosures.github.io/enrichment-activities-build/).**
+
 
 
 **5. To embed the web-app, paste:**
