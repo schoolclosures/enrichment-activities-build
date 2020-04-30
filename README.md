@@ -9,9 +9,9 @@ Build folder of Enrichment Activities app for deployment and then embed
 
     - /static/css/main.#######.chunk.css    →    /static/css/main.css
 
-    - /static/js/2.######.chunk.js          →    /static/js/chunk1.js
+    - /static/js/2.######.chunk.js          →    /static/js/chunk.js
 
-    - /static/js/main.######.chunk.js       →    /static/js/chunk2.js
+    - /static/js/main.######.chunk.js       →    /static/js/main.js
 
     - /static/js/runtime-main.######.js     →    /static/js/runtime-main.js
 
