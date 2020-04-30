@@ -39,8 +39,8 @@ Build folder of Enrichment Activities app for deployment and then embed
 <div id="divRoot"></div>
 <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://schoolclosures.github.io/enrichment-activities-build-test/static/css/main.css">
-<script src="https://schoolclosures.github.io/enrichment-activities-build-test/static/js/chunk.js"></script>
-<script src="https://schoolclosures.github.io/enrichment-activities-build-test/static/js/main.js"></script>
-<script src="https://schoolclosures.github.io/enrichment-activities-build-test/static/js/runtime-main.js"></script>
+<link rel="stylesheet" type="text/css" href="https://schoolclosures.github.io/enrichment-activities-build/static/css/main.css">
+<script src="https://schoolclosures.github.io/enrichment-activities-build/static/js/chunk.js"></script>
+<script src="https://schoolclosures.github.io/enrichment-activities-build/static/js/main.js"></script>
+<script src="https://schoolclosures.github.io/enrichment-activities-build/static/js/runtime-main.js"></script>
 ```
